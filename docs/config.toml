@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jnormile.github.io/research-notebook/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Research Notebook'
 theme = "poison"
