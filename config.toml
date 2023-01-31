@@ -7,8 +7,8 @@ pluralizelisttitles = false
 
 [params]
     brand = "Programming Pedagogy"                    # name of your site - appears in the sidebar
-    # brand_image = "/images/test.jpg"  # path to the image shown in the sidebar
-    description = "A research notebook for ideas, implementations, and scholarly research pertaining to the intersection of programming and pedagogy."
+    brand_image = "/images/creative-teaching.png"  # path to the image shown in the sidebar
+    description = "A digital research notebook for ideas and scholarly research pertaining to the intersection of programming and pedagogy."
     dark_mode = true                    # optional - defaults to false
 
     # MENU PLACEHOLDER
