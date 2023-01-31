@@ -4,3 +4,6 @@
 [submodule "themes/poison"]
 	path = themes/poison
 	url = https://github.com/lukeorth/poison.git
+[submodule "docs/themes/poison"]
+	path = docs/themes/poison
+	url = https://github.com/lukeorth/poison.git
