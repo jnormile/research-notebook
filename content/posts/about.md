@@ -1,4 +1,8 @@
-# About Me
+---
+title: "About Me"
+date: 2023-01-31T12:07:03-05:00
+draft: false
+---
 
 My name is Jeff Normile and I'm a student at Allegheny College pursuing an education in both Computer Science and Communications.
 
