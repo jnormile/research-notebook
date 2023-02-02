@@ -14,9 +14,9 @@ The study compared the two approaches in the context of teaching an undergraduat
 
 There is a somewhat surprising kernel of information to be found in the text though: 
 
-> The results showed that learning performance using dynamic media was significantly higher than 
+> "The results showed that learning performance using dynamic media was significantly higher than 
 those of the static textbook lesson when the learning material had a certain level of complexity; the more 
-complex the learning material, the larger the benefit of using animations (Holzinger, et al).
+complex the learning material, the larger the benefit of using animations" (Holzinger, et al).
 
 The benefits of dynamic media *increase* as the **complexity** of the material being learned increases.
 
