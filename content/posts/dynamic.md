@@ -20,6 +20,6 @@ complex the learning material, the larger the benefit of using animations (Holzi
 
 The benefits of dynamic media *increase* as the **complexity** of the material being learned increases.
 
-One question still lingers, however: is this benefit restricted to this article's specific definition of dynamism in terms of learning media (animated visuals)? Or does this benefit extend to an expanded definition of dynamic media? Does this benefit perhaps, as I hypothesize, *increase* as the definition of dynamic media expands to include ever more hands-on approaches to learning?
+A few questions still linger, though: is this benefit restricted to this article's specific definition of dynamism in terms of learning media (animated visuals)? Or does this benefit extend to an expanded definition of dynamic media? Does this benefit perhaps, as I hypothesize, *increase* as the definition of dynamic media expands to include ever more hands-on approaches to learning?
 
 Let's find out together.
