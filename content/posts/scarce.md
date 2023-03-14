@@ -10,6 +10,6 @@ Interestingly, though the meta-analysis looks at a **wide** spread of varying ty
 
 This particular gamification approach *was* examined in a 2018 text, ["Effect of Gamification on E-Learning to Support Learning Achievement and Learning Motivation"](http://www.jatit.org/volumes/Vol96No12/4Vol96No12.pdf), though their own analysis was strictly limited to junior high students.
 
-> Literature on teacher-less implementations of gamified education processes are scarce, but that scarcity continues to exponentially increase as we further define the expected context.
+> Literature on teacher-less implementations of gamified education processes are scarce; naturally that scarcity continues to exponentially increase as we further define the expected context.
 
 What if the learners aren't junior high students, but adult learners? What if we're interested in learning a specific skill, like a *particular* programming language? As would be expected, this increase in specificity results in a profound scarcity of established literature.
