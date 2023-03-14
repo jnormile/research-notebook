@@ -1,4 +1,8 @@
-
+---
+title: "Questions"
+date: 2023-02-01T10:07:03-05:00
+draft: false
+---
 
 How do we effectively **teach** entirely new ways of thinking--like teaching someone who's never seen a terminal window to write their first few lines of code? What practices and behaviors are useful for meaningfully maximizing our time spent grappling with and **learning** a complex concept--like a heady algorithm that seems all but impenetrable at first glance?
 
