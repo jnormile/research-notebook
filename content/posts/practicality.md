@@ -6,4 +6,4 @@ draft: false
 
 Since my last post, I've spent some time dreaming up a gamified curricular tool for teaching the fundamentals of a new programming language--namely, *Rust*. Below is a rough vision of what I've mentally cobbled together so far:
 
-![Playbook Blueprint](../../resources/_gen/images/excalidraw-playbook.png)
+![Playbook Blueprint](/../../resources/_gen/images/excalidraw-playbook.png)
