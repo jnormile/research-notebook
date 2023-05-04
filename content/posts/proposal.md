@@ -40,6 +40,22 @@ Of course, each of these components functioning in isolation would amount to ver
 
 This is, in hopefully fewer words than it takes to bore a reader, the **why, how, and what** behind `playbook` and its envisioned future. But it's worth mentioning--for *particularly* invested readers, I suppose--that `playbook` already has something of a *past* as well.
 
-Over the past couple of months, I've labored over a couple of prototypes that aim to demonstrate the feasibility of the proposed project, as well as address some of the most glaring gaps in my technical knowledge and capabilities. One of those prototypes and the resultant experimentation of its capabilities is already detailed in [this post](https://jnormile.github.io/research-notebook/posts/experiment/), so if you're interested in the work that went into building a simplistic containerized runtime environment for running user-provided Rust code, then I'll kindly direct your attention there so as to avoid repeating myself within this medium.
+Over the past couple of months, I've labored over a couple of prototypes that aim to demonstrate the feasibility of the proposed project, as well as address some of the most glaring gaps in my technical knowledge and capabilities. One of those prototypes and the resultant experimentation of its capabilities is already detailed in [this post](https://jnormile.github.io/research-notebook/posts/experiment/), so if you're interested in the work that went into building a simplistic containerized runtime environment for running pre-written Rust code, then I'll kindly direct your attention there so as to avoid repeating myself within this medium.
 
-On the other hand, I've yet to discuss the other, arguably more important prototype that I've been at work developing alongside a faculty advisor in my undergraduate program.
+On the other hand, I've yet to discuss the other, arguably more important prototype that I've been at work developing alongside a faculty advisor in my undergraduate program. This saw the integration of my containerized runtime environment into a setup that involves a server handing off Rust code submitted from a client webpage (imitating the future hands-on coding activities I envision) to said runtime environment and retrieving the container's logs to write output files containing both program output and any information contained in a `stderr` channel (including all of `cargo`'s messages regarding compile time and helpful stack trace errors and warnings). The final piece of the puzzle that has yet to be developed is the hand-off the newly created text file *back* to the initial client, to completely implement a web-based coding platform not unlike those produced by [Replit](https://replit.com/).
+
+Finishing the hand-off implemented by this prototype is just the first step in realizing the vision proposed by `playbook`. From there, I'll still have to engage in the following tasks:
+
+- Implement functionality to store and retrieve data pertaining to user progress within a database, and leverage this functionality within gamification elements presented in the user's webpage
+
+- Create activity files housed in GitHub that contain the aforementioned starter code and solution data for each hands-on activity
+
+- Implement functionality to actually *retrieve* the data stored in those GitHub repositories to populate activities with starter code and provide a means to compare user-submitted program output with expected output
+
+- Develop style elements for the user experience (the current prototype is a crude black-and-white page with a line of text, a submission form, and a submit button)
+
+- Actually write curriculum for `playbook`!
+
+This last piece is the part I'm personally most excited for, but unfortunately a number of tasks stand between me and actually developing the curriculum leveraged by `playbook`. In all likelihood, this "curriculum" considered by `playbook` will be *very* limited in scope--no more than a lesson or two--given the major time constraint imposed by my impending graduation.
+
+All that having been said, that's as concise a possible look at both where `playbook` has been and where I hope it will go. As always, thank you for joining me for this endeavor via these posts.
