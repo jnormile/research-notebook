@@ -21,3 +21,5 @@ The proposed `playbook` project will aim to offer users a browser-based platform
 - Corresponding hands-on coding activities related to the aforementioned text that will invite users to put principles laid out in writing into practice of their own
 
 -  Progress bars, badges, and similar gamification elements designed to prompt the user towards further exploration of the text and the activities and reward user progress
+
+
