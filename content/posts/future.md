@@ -37,3 +37,9 @@ My proposed project is comprised of four distinct components that work together:
 - A containerized runtime environment powered by Docker that is equipped with a Rust installation and any related dependencies required by the various hands-on activities presented by the webpage
 
 Of course, each of these components functioning in isolation would amount to very little, so there's also a need for a server facilitating the numerous requests for data made between these entities.
+
+This is, in hopefully fewer words than it takes to bore a reader, the **why, how, and what** behind `playbook` and its envisioned future. But it's worth mentioning--for *particularly* invested readers, I suppose--that `playbook` already has something of a *past* as well.
+
+Over the past couple of months, I've labored over a couple of prototypes that aim to demonstrate the feasibility of the proposed project, as well as address some of the most glaring gaps in my technical knowledge and capabilities. One of those prototypes and the resultant experimentation of its capabilities is already detailed in [this post](https://jnormile.github.io/research-notebook/posts/experiment/), so if you're interested in the work that went into building a simplistic containerized runtime environment for running user-provided Rust code, then I'll kindly direct your attention there so as to avoid repeating myself within this medium.
+
+On the other hand, I've yet to discuss the other, arguably more important prototype that I've been at work developing alongside a faculty advisor in my undergraduate program.
