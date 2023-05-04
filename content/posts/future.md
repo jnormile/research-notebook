@@ -25,3 +25,15 @@ The proposed `playbook` project will aim to offer users a browser-based platform
 -  Progress bars, badges, and similar gamification elements designed to prompt the user towards further exploration of the text and the activities and reward user progress
 
 And without further ado, it's worth investigating (in as few words as possible) the somewhat complex architecture that constitutes the **how** of `playbook`.
+
+My proposed project is comprised of four distinct components that work together:
+
+- A user-facing webpage that makes up the entirety of the user experience, and is comprised of the aforementioned three elements from the list above
+
+- A collection of activity repositories housed on GitHub that contain the necessary data for the hands-on coding activities presented by the webpage, including any starter code for coding activities as well as information pertaining to expected output and possible test cases that users are required to pass
+
+- A database that stores and collects data pertaining to the progress made by specific users, to be called for and referenced when populating the various progress bars, badges, and other possible gamification elements that present themselves to the user on the webpage
+
+- A containerized runtime environment powered by Docker that is equipped with a Rust installation and any related dependencies required by the various hands-on activities presented by the webpage
+
+Of course, each of these components functioning in isolation would amount to very little, so there's also a need for a server facilitating the numerous requests for data made between these entities.
