@@ -12,9 +12,9 @@ As is often the case with anything that someone compellingly pursues and devotes
 
 The personal backstory aside, the premise behind my project is equal parts simple and ambitious. I want to create a way for others to experience even a fraction of the personal growth that I have through my current educational journey pursuing a degree in computer science. I want to open a door of opportunity to other disenchanted adults looking for a new path, and I want to do it at no cost to them other than their time.
 
-It's worth noting that the structure of this endeavor is motivated by research as well. Though I've spent my time (and yours) within numerous posts elaborating on research related to the gamification of pedagogy, there's couple key pieces of research that much of my proposed idea hinges on. First and foremost, there's 
+It's worth noting that the structure of this endeavor is motivated by external research as well. Though I've spent my time (and yours) within numerous posts elaborating on research related to the gamification of pedagogy, there's couple key pieces of research that much of my proposed idea hinges on. First, there's [this previously discussed text on the teaching of complex materials via dynamic media](https://www.jstor.org/tc/accept?origin=%2Fstable%2Fpdf%2Fjeductechsoci.11.1.279.pdf&is_image=False), which finds that increasingly complex subject matter tends to see increasingly large benefits (in terms of learner retention) when taught via "dynamic" media (as opposed to static, text/lecture-based media). Secondly, there's [this more contemporary study on gamification and flipped/traditional classrooms]() that demonstrates a *blend* of both traditional educational approaches with hands-on activities (all with a coat of gamification) results in the highest learner achievement *and* engagement.
 
-This, of course, brings us to the **what** of it all.
+The appeals to complexity and blended educational approaches inform both the proposed subject matter of `playbook` as well as how it aims to deliver it, which, of course, now brings us the the **what** of it all.
 
 The proposed `playbook` project will aim to offer users a browser-based platform for learning the fundamentals of the Rust programming language. I plan for it to leverage three components in order to do so: 
 
@@ -24,4 +24,4 @@ The proposed `playbook` project will aim to offer users a browser-based platform
 
 -  Progress bars, badges, and similar gamification elements designed to prompt the user towards further exploration of the text and the activities and reward user progress
 
-
+And without further ado, it's worth investigating (in as few words as possible) the somewhat complex architecture that constitutes the **how** of `playbook`.
