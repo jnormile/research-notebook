@@ -12,6 +12,8 @@ As is often the case with anything that someone compellingly pursues and devotes
 
 The personal backstory aside, the premise behind my project is equal parts simple and ambitious. I want to create a way for others to experience even a fraction of the personal growth that I have through my current educational journey pursuing a degree in computer science. I want to open a door of opportunity to other disenchanted adults looking for a new path, and I want to do it at no cost to them other than their time.
 
+It's worth noting that the structure of this endeavor is motivated by research as well. Though I've spent my time (and yours) within numerous posts elaborating on research related to the gamification of pedagogy, there's couple key pieces of research that much of my proposed idea hinges on. First and foremost, there's 
+
 This, of course, brings us to the **what** of it all.
 
 The proposed `playbook` project will aim to offer users a browser-based platform for learning the fundamentals of the Rust programming language. I plan for it to leverage three components in order to do so: 
